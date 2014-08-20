@@ -3,7 +3,7 @@
 # instructors
 
 ## what are our names?
-instructors = ''
+instructors = 'Dav and Sean and Dave'
 
 # types
 ## Now define some other types of variables
